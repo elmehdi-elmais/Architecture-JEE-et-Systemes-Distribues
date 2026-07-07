@@ -1,3 +1,3 @@
-[submodule "Injection-De-Dependances"]
-	path = Injection-De-Dependances
-	url = https://github.com/elmehdi-elmais/Injection-De-Dependances.git
+[submodule "Inversion-de-Controle-et-Injection-De-Dependance"]
+	path = Inversion-de-Controle-et-Injection-De-Dependance
+	url = https://github.com/elmehdi-elmais/Inversion-de-Controle-et-Injection-De-Dependance.git
