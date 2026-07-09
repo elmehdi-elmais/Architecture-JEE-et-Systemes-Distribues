@@ -5,3 +5,6 @@
 	path = Spring-Data-JPA-Hibernate
 	url = https://github.com/elmehdi-elmais/Spring-Data-JPA-Hibernate.git
 	ignore = dirty
+[submodule "Spring-MVC-Thymeleaf-Security"]
+	path = Spring-MVC-Thymeleaf-Security
+	url = https://github.com/elmehdi-elmais/Spring-MVC-Thymeleaf-Security.git
