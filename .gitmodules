@@ -8,3 +8,6 @@
 [submodule "Spring-MVC-Thymeleaf-Security"]
 	path = Spring-MVC-Thymeleaf-Security
 	url = https://github.com/elmehdi-elmais/Spring-MVC-Thymeleaf-Security.git
+[submodule "Angular-Framework"]
+	path = Angular-Framework
+	url = https://github.com/elmehdi-elmais/Angular-Framework.git
